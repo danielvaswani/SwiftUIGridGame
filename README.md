@@ -1,2 +1,2 @@
 # SwiftUIGridGame
-Classic Grid game made popular by popular OS widgets, made in SwiftUI
+Classic Grid/Tile puzzle game made popular by popular OS widgets, made entirely in SwiftUI
